@@ -5,8 +5,6 @@ I'm a freelance data contractor focused on Python, automation, and AI tooling. I
 📫 **Business enquiries:** [jswdatasolutions@gmail.com](mailto:jswdatasolutions@gmail.com)  
 📬 **Personal:** [joshwalker.oni@gmail.com](mailto:joshwalker.oni@gmail.com)
 
-![Header Banner – Coming Soon](https://via.placeholder.com/1000x200.png?text=Josh+Walker+–+Data+%26+AI+Projects)
-
 ---
 
 ## 🚀 Featured Projects
@@ -27,7 +25,7 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ### ⚙️ Setups and Scripts
 - [Setup & Configs](https://github.com/jswalker-data/Setup) – My dev environment config (.gitconfig, pre-commit, VS Code)
 - [Shell Scripts](https://github.com/jswalker-data/shell_scripts) – Bash and PowerShell scripts for automation
-- [Web Scraping Tools](https://github.com/jswalker-data/WebScrapingTools) – Python scripts for scraping UK postcode metadata and more
+- [Web Scraping Tools](https://github.com/jswalker-data/Web-Scraping) – Python scripts for scraping UK postcode metadata and more
 
 ### 📈 Machine Learning & AI
 - [Kaggle Competitions](https://github.com/jswalker-data/Kaggle) – Notebooks and pipelines from various data competitions
