@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Josh!
 
-I'm a freelance data contractor focused on Python, automation, and AI tooling. I build tools that make data workflows faster, cleaner, and more effective.
+I'm a freelance data contractor focused on Python, automation, and AI tooling. I build things that make data workflows faster, cleaner, and more effective.
 
 📫 **Business enquiries:** [jswdatasolutions@gmail.com](mailto:jswdatasolutions@gmail.com)  
 📬 **Personal:** [joshwalker.oni@gmail.com](mailto:joshwalker.oni@gmail.com)
+
+![Header Banner – Coming Soon](https://via.placeholder.com/1000x200.png?text=Josh+Walker+–+Data+%26+AI+Projects)
 
 ---
 
@@ -25,6 +27,7 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ### ⚙️ Setups and Scripts
 - [Setup & Configs](https://github.com/jswalker-data/Setup) – My dev environment config (.gitconfig, pre-commit, VS Code)
 - [Shell Scripts](https://github.com/jswalker-data/shell_scripts) – Bash and PowerShell scripts for automation
+- [Web Scraping Tools](https://github.com/jswalker-data/WebScrapingTools) – Python scripts for scraping UK postcode metadata and more
 
 ### 📈 Machine Learning & AI
 - [Kaggle Competitions](https://github.com/jswalker-data/Kaggle) – Notebooks and pipelines from various data competitions
@@ -42,7 +45,6 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ## 🛠️ Tools & Tech
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -54,6 +56,11 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ## 🔥 Contributions
 
 ![GitHub Contribution Graph](https://github.com/jswalker-data/jswalker-data/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+Thanks for stopping by — feel free to explore my projects or get in touch!
+
 
 
 
