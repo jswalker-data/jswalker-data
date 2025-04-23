@@ -10,7 +10,7 @@ I'm a freelance data contractor focused on Python, automation, and AI tooling. I
 ## 🚀 Featured Projects
 
 ### 🎮 [Rogue-like Game](https://github.com/jswalker-data/Rogue-Like-Game)
-Terminal-based rogue-like adventure built with Python and `tcod`. Features procedural dungeon generation and character movement.
+Turn-based rogue-like adventure built with Python and `tcod`. Features procedural dungeon generation and character movement.
 
 ### 🤖 [Hugging Face AI Agents](https://github.com/jswalker-data/HuggingFace)
 Work from the Hugging Face AI Agents course. Notes, experiments, and tool-using agent prototypes.
