@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josh!
 
-I'm a freelance data contractor focused on Python, automation, and AI tooling. I build a variety of tools to help with data python development and data tooling. Along with quite a few games for fun!
+I'm a freelance data contractor focused on Python, automation, and AI tooling. I build a variety of tools to help with python development and data tooling. Along with quite a few games for fun!
 
 📫 **Business enquiries:** [jswdatasolutions@gmail.com](mailto:jswdatasolutions@gmail.com)  
 📬 **Personal:** [joshwalker.oni@gmail.com](mailto:joshwalker.oni@gmail.com)
