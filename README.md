@@ -34,6 +34,7 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ### 🎮 Games
 - [Rogue-like Game](https://github.com/jswalker-data/Rogue-Like-Game) – A terminal-based dungeon crawler built with `tcod`
 - [Advent of Code](https://github.com/jswalker-data/AdventOfCode) – Python solutions for AoC 2022, 2023, and 2024
+- [Snake](https://github.com/jswalker-data/Snake) - A terminal-based snake game built with `pygame`
 
 ### 📊 Miscellaneous
 - [Election 2019 Analysis](https://github.com/jswalker-data/Election2019) – UK general election data exploration and visualisation
