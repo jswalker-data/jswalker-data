@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Josh!
 
-I'm a freelance data contractor focused on Python, automation, and AI tooling. I build a variety of tools to help with python development and data tooling. Along with quite a few games for fun!
+I'm a platform and DevOps engineer. I build a variety of tools to help with python development and data tooling. Along with quite a few games for fun!
 
-📫 **Business enquiries:** [jswdatasolutions@gmail.com](mailto:jswdatasolutions@gmail.com)  
+Find the source code for rust creates I manage and my configs and setups below!
+
+Thanks for stopping by — feel free to explore my projects or get in touch!
+
 📬 **Personal:** [joshwalker.oni@gmail.com](mailto:joshwalker.oni@gmail.com)
 
 ---
@@ -49,16 +52,6 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat&logo=pre-commit&logoColor=black)
-
----
-
-## 🔥 Contributions
-
-![GitHub Contribution Graph](https://github.com/jswalker-data/jswalker-data/raw/output/github-contribution-grid-snake.svg)
-
----
-
-Thanks for stopping by — feel free to explore my projects or get in touch!
 
 
 
