@@ -52,7 +52,8 @@ Python solutions for the Advent of Code challenges — currently covering 2022, 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat&logo=pre-commit&logoColor=black)
-
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
 
 
